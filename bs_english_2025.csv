@@ -1,12 +1,12 @@
-student_name,father_name,18th_century_english_novel,islamic_studies,understanding_holy_quran_1,history_of_english_literature,intro_to_literary_devices_and_genres,functional_english,applications_of_ict,obt_marks,total_marks,percentage_of_obt_marks,cr_hrs,overall_cgpa,remarks
-khadija javed,javed zafar,90,75,79,64,68,61,78,515,700,73.57,18,3.4,promoted
-aiman laraib,ashfaq ahmed,82,74,86,74,74,63,77,530,700,75.71,18,3.59,promoted
-shameen iqbal,muhammad zafar iqbal,84,78,84,73,76,72,84,551,700,78.71,18,3.77,promoted
-sidra kainat,malik fazal ur rehman,82,76,90,84,81,67,82,562,700,80.29,18,3.82,promoted
-sumaira bibi,malik khair muhammad,70,78,88,55,52,43,70,456,700,65.14,18,2.71,promoted
-ruqiya noreen,attaullah khan,84,91,87,80,76,72,82,572,700,81.71,18,3.86,promoted
-jamila bibi,rafiullah khan,78,91,96,67,63,77,77,549,700,78.43,18,3.57,promoted
-sadia bibi,shujaudin,69,77,87,62,54,62,68,479,700,68.43,18,3.02,promoted
-malik sheeraz,muhammad faiz ullah,69,88,88,72,62,61,70,510,700,72.86,18,3.25,promoted
-muhammad zain ahad,israr muhammad amjad,67,86,79,64,48,62,68,474,700,67.71,18,2.97,promoted
-aimal aslam,muhammad aslam,68,83,90,62,48,48,66,465,700,66.43,18,2.77,promoted
+student_name,father_name,gender,18th_century_english_novel,islamic_studies,understanding_holy_quran_1,history_of_english_literature,intro_to_literary_devices_and_genres,functional_english,applications_of_ict,obt_marks,total_marks,percentage_of_obt_marks,cr_hrs,overall_cgpa,promoted
+khadija javed,javed zafar,female,90,75,79,64,68,61,78,515,700,73.57,18,3.4,1
+aiman laraib,ashfaq ahmed,female,82,74,86,74,74,63,77,530,700,75.71,18,3.59,1
+shameen iqbal,muhammad zafar iqbal,female,84,78,84,73,76,72,84,551,700,78.71,18,3.77,1
+sidra kainat,malik fazal ur rehman,female,82,76,90,84,81,67,82,562,700,80.29,18,3.82,1
+sumaira bibi,malik khair muhammad,female,70,78,88,55,52,43,70,456,700,65.14,18,2.71,1
+ruqiya noreen,attaullah khan,female,84,91,87,80,76,72,82,572,700,81.71,18,3.86,1
+jamila bibi,rafiullah khan,female,78,91,96,67,63,77,77,549,700,78.43,18,3.57,1
+sadia bibi,shujaudin,female,69,77,87,62,54,62,68,479,700,68.43,18,3.02,1
+malik sheeraz,muhammad faiz ullah,male,69,88,88,72,62,61,70,510,700,72.86,18,3.25,1
+muhammad zain ahad,israr muhammad amjad,male,67,86,79,64,48,62,68,474,700,67.71,18,2.97,1
+aimal aslam,muhammad aslam,female,68,83,90,62,48,48,66,465,700,66.43,18,2.77,1
